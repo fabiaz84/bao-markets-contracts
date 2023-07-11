@@ -6,6 +6,7 @@ coverage.json
 deployments
 typechain
 deployedContracts.txt
+yarn.lock
 
 #Hardhat files
 cache
